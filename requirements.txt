@@ -1,0 +1,10 @@
+# Third-party Python packages required to run run.py
+
+# Core numerical library
+numpy>=1.23
+
+# HTTP client for optional DeepSeek-guided strategy selection
+requests>=2.31
+
+# CEC benchmark package used by default in run.py
+opfunu==1.0.4
