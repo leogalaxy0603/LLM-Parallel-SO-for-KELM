@@ -20,7 +20,7 @@ Current release highlights:
 ## Paper Information
 
 - Title: **A Novel Parallel Snake Optimizer with LLM-Enhanced Cross-Population Communication for KELM Hyperparameter Optimization and Applied in Power Load Forecasting**
-- Journal: **IEEE Industry Applications Magazine**
+- Journal: **IEEE Transactions on Industry Applications**
 - Authors:
   Tian-Yu Gao, Gao-Yuan Liu, Joel J. P. C. Rodrigues, Jeng-Shyang Pan, Hui-Qi Zhao, Ying Yu, and Ru-Yu Wang
 
