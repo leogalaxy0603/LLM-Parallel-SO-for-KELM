@@ -6,6 +6,8 @@ This repository contains the open-source implementation of the method presented 
 
 Accepted by **IEEE Transactions on Industry Applications**.
 
+**Good news** This paper have been early access in https://ieeexplore.ieee.org/document/11644848.
+
 ## Overview
 
 This project provides a standalone implementation of **LLM-Parallel SO**, a parallel snake-optimizer-style method with optional LLM-enhanced cross-population communication.
@@ -134,7 +136,7 @@ Official citation information is coming soon.
 If you use this code for now, please cite the project repository:
 
 ```text
-https://github.com/leogalaxy0603/LLM-Parallel-SO-for-KELM
+T. -Y. Gao et al., "A Novel Parallel Snake Optimizer with LLM-Enhanced Cross-Population Communication for KELM Hyperparameter Optimization and Applied in Power Load Forecasting," in IEEE Transactions on Industry Applications, doi: 10.1109/TIA.2026.3721836.
 ```
 
 ## License
