@@ -4,7 +4,7 @@ This repository contains the open-source implementation of the method presented 
 
 **A Novel Parallel Snake Optimizer with LLM-Enhanced Cross-Population Communication for KELM Hyperparameter Optimization and Applied in Power Load Forecasting**
 
-Accepted by **IEEE Industry Applications Magazine**.
+Accepted by **IEEE Transactions on Industry Applications**.
 
 ## Overview
 
